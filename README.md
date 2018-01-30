@@ -2,7 +2,7 @@
 Contains covers or originals of music created with Sonic Pi (in Ruby)
 
 The files (.rb) you will find here are intended to be run in the live coding environment, Sonic Pi. It is available
-for Windows, MacOS, Linux and Raspberry Pi.
+for Windows, MacOS, and Linux, which includes Raspberry Pi OS.
 
 To download Sonic Pi, go here: http://sonic-pi.net/
 
